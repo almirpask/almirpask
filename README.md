@@ -6,6 +6,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almirpask&layout=compact&langs_count=7&theme=tokyonight"/>
  
 </div>
+  
+  
+## Holopin Badges
+[![@almirpask's Holopin board](https://holopin.io/api/user/board?user=almirpask)](https://holopin.io/@almirpask)
 
 ### My favorite repository is:
 

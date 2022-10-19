@@ -14,8 +14,6 @@
 ### My favorite repository is:
 
  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=almirpask&repo=Ruby-Action-RPG"/>
-
-![Snake animation](https://github.com/almirpask/almirpask/blob/output/github-contribution-grid-snake.svg)
 ### You can find me in:
 
 
